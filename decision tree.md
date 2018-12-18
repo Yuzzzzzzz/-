@@ -59,4 +59,9 @@ ID3的后继算法C4.5使用增益率（gain ratio）的信息增益扩充<br>
 - 贪婪算法（可能找不到最好的树<br>
 - 容易过拟合<br><br><br><br>
 
+### 决策树的衍生
+- Bagging<br>
+- Random Forest <br>
+- Boosting<br><br><br><br>
+
 [titanic](https://www.kaggle.com/c/titanic/data)
